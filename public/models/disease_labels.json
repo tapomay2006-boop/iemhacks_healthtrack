@@ -1,0 +1,150 @@
+{
+  "Acute Febrile Illness": {
+    "risk_level": "RED",
+    "risk_code": 2
+  },
+  "Acute Febrile Syndrome": {
+    "risk_level": "RED",
+    "risk_code": 2
+  },
+  "Cholera / Gastroenteritis": {
+    "risk_level": "RED",
+    "risk_code": 2
+  },
+  "Dengue Fever": {
+    "risk_level": "RED",
+    "risk_code": 2
+  },
+  "Influenza / COVID-19": {
+    "risk_level": "YELLOW",
+    "risk_code": 1
+  },
+  "Malaria": {
+    "risk_level": "YELLOW",
+    "risk_code": 1
+  },
+  "Pneumonia / Severe ARI": {
+    "risk_level": "RED",
+    "risk_code": 2
+  },
+  "acute bronchitis": {
+    "risk_level": "YELLOW",
+    "risk_code": 1
+  },
+  "acute pancreatitis": {
+    "risk_level": "RED",
+    "risk_code": 2
+  },
+  "arthritis of the hip": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "benign prostatic hyperplasia (bph)": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "bursitis": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "complex regional pain syndrome": {
+    "risk_level": "YELLOW",
+    "risk_code": 1
+  },
+  "conjunctivitis due to allergy": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "cystitis": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "diverticulitis": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "eczema": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "esophagitis": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "fungal infection of the hair": {
+    "risk_level": "YELLOW",
+    "risk_code": 1
+  },
+  "gastrointestinal hemorrhage": {
+    "risk_level": "RED",
+    "risk_code": 2
+  },
+  "gout": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "hypoglycemia": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "infectious gastroenteritis": {
+    "risk_level": "YELLOW",
+    "risk_code": 1
+  },
+  "injury to the arm": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "injury to the leg": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "liver disease": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "marijuana abuse": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "nose disorder": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "peripheral nerve disorder": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "pneumonia": {
+    "risk_level": "RED",
+    "risk_code": 2
+  },
+  "spinal stenosis": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "spondylosis": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "spontaneous abortion": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "sprain or strain": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "strep throat": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "vaginal cyst": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  },
+  "vulvodynia": {
+    "risk_level": "GREEN",
+    "risk_code": 0
+  }
+}
