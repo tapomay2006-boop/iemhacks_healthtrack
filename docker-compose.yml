@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  healthtrack-ai:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: healthtrack-ai-pwa
+    ports:
+      - "8080:80"
+    restart: always
+    environment:
+      - NODE_ENV=production
