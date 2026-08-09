@@ -3,6 +3,8 @@
 >
 > *Designed for Rural ASHA Healthcare Workers & District Chief Medical Officers across India.*
 >
+> VIDEO LINK : https://drive.google.com/drive/folders/1C4ubI9V_FglFDn9oKNkNCcy4FE3X4j1m?usp=sharing
+>
 > LIVE URL : https://aura-health-oc4z.onrender.com
 
 ---
